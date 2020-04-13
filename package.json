@@ -1,0 +1,8 @@
+{
+  "name": "khttpclient",
+  "version": "1.0.0",
+  "description": "Promise+XHR实现HTTP请求技术",
+  "main": "kHttpClient.js",
+  "author": "550714829@qq.com",
+  "license": "ISC"
+}
