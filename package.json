@@ -2,7 +2,16 @@
   "name": "khttpclient",
   "version": "1.0.0",
   "description": "Promise+XHR实现HTTP请求技术",
-  "main": "kHttpClient.js",
-  "author": "550714829@qq.com",
-  "license": "ISC"
+  "main": "./dist/kHttpClient.esm.js",
+  "module": "./lib/Kcas.js",
+  "author": "annie <550714829@qq.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "father test",
+    "test:c": "father test --coverage",
+    "build": "father build"
+  },
+  "devDependencies": {
+    "father": "^2.29.2"
+  }
 }
