@@ -1,6 +1,6 @@
 {
   "name": "khttpclient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise+XHR实现HTTP请求技术",
   "main": "./dist/kHttpClient.esm.js",
   "module": "./lib/Kcas.js",
